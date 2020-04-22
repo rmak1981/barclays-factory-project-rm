@@ -1,0 +1,38 @@
+2020-04-22 11:04:590 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-22 11:04:674 INFO  HomePage :32 - mouse hover on element[[ChromeDriver: chrome on WINDOWS (908f56e8a45dcb2a2be4f0f288a7c8ef)] -> link text: Bank]
+2020-04-22 11:04:925 INFO  HomePage :37 - click on current account[[ChromeDriver: chrome on WINDOWS (908f56e8a45dcb2a2be4f0f288a7c8ef)] -> xpath: //div[@class='nav-l3']//a[contains(text(),'Current accounts')]]
+2020-04-22 12:04:405 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-22 12:04:66 INFO  HomePage :32 - mouse hover on element[[ChromeDriver: chrome on WINDOWS (0d0098bc84a5da3295832a7961fd1ea3)] -> link text: Bank]
+2020-04-22 12:04:934 INFO  HomePage :37 - click on current account[[ChromeDriver: chrome on WINDOWS (0d0098bc84a5da3295832a7961fd1ea3)] -> xpath: //div[@class='nav-l3']//a[contains(text(),'Current accounts')]]
+2020-04-22 12:04:708 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-22 12:04:424 INFO  HomePage :32 - mouse hover on element[[ChromeDriver: chrome on WINDOWS (d116661e8b4ccaa120d29531fcc5671f)] -> link text: Bank]
+2020-04-22 12:04:797 INFO  HomePage :37 - click on current account[[ChromeDriver: chrome on WINDOWS (d116661e8b4ccaa120d29531fcc5671f)] -> xpath: //div[@class='nav-l3']//a[contains(text(),'Current accounts')]]
+2020-04-22 12:04:938 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-22 12:04:118 INFO  HomePage :45 - click on find a branch link[[ChromeDriver: chrome on WINDOWS (d6d5638ed649b7605dd02b3d16b871bf)] -> xpath: //span[contains(text(),'Find a branch')]]
+2020-04-22 12:04:147 INFO  BranchFinderPage :28 - enter text for locationLE4 5ATto the field[[ChromeDriver: chrome on WINDOWS (d6d5638ed649b7605dd02b3d16b871bf)] -> xpath: //input[@id='location']]
+2020-04-22 12:04:705 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-22 12:04:592 INFO  HomePage :35 - mouse hover on element[[ChromeDriver: chrome on WINDOWS (89916a7ef2cc34aeec22f26a792f279e)] -> link text: Bank]
+2020-04-22 12:04:896 INFO  HomePage :40 - click on current account[[ChromeDriver: chrome on WINDOWS (89916a7ef2cc34aeec22f26a792f279e)] -> xpath: //div[@class='nav-l3']//a[contains(text(),'Current accounts')]]
+2020-04-22 12:04:676 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-22 12:04:391 INFO  HomePage :45 - click on find a branch link[[ChromeDriver: chrome on WINDOWS (48a8bae03d1e940acaf4e7820c2fb347)] -> xpath: //span[contains(text(),'Find a branch')]]
+2020-04-22 12:04:303 INFO  BranchFinderPage :28 - enter text for locationLE4 5ATto the field[[ChromeDriver: chrome on WINDOWS (48a8bae03d1e940acaf4e7820c2fb347)] -> xpath: //input[@id='location']]
+2020-04-22 12:04:534 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-22 12:04:298 INFO  HomePage :35 - mouse hover on element[[ChromeDriver: chrome on WINDOWS (def3bc0e6aef60df1d614397e566e984)] -> link text: Bank]
+2020-04-22 12:04:700 INFO  HomePage :40 - click on current account[[ChromeDriver: chrome on WINDOWS (def3bc0e6aef60df1d614397e566e984)] -> xpath: //div[@class='nav-l3']//a[contains(text(),'Current accounts')]]
+2020-04-22 12:04:805 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-22 12:04:975 INFO  HomePage :35 - mouse hover on element[[ChromeDriver: chrome on WINDOWS (f4b4085c93107e086cb3f219250f7ff6)] -> link text: Bank]
+2020-04-22 12:04:875 INFO  HomePage :40 - click on current account[[ChromeDriver: chrome on WINDOWS (f4b4085c93107e086cb3f219250f7ff6)] -> xpath: //div[@class='nav-l3']//a[contains(text(),'Current accounts')]]
+2020-04-22 12:04:105 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-22 12:04:236 INFO  HomePage :45 - click on find a branch link[[ChromeDriver: chrome on WINDOWS (8d1172d0f64bc03b4134e9432d2d3eff)] -> xpath: //span[contains(text(),'Find a branch')]]
+2020-04-22 12:04:216 INFO  BranchFinderPage :28 - enter text for locationLE4 5ATto the field[[ChromeDriver: chrome on WINDOWS (8d1172d0f64bc03b4134e9432d2d3eff)] -> xpath: //input[@id='location']]
+2020-04-22 12:04:758 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-22 12:04:21 INFO  HomePage :35 - mouse hover on element[[ChromeDriver: chrome on WINDOWS (00b2402c7cb2302c9942d845b24de32f)] -> link text: Bank]
+2020-04-22 12:04:109 INFO  HomePage :40 - click on current account[[ChromeDriver: chrome on WINDOWS (00b2402c7cb2302c9942d845b24de32f)] -> xpath: //div[@class='nav-l3']//a[contains(text(),'Current accounts')]]
+2020-04-22 12:04:790 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-22 12:04:216 INFO  HomePage :45 - click on find a branch link[[ChromeDriver: chrome on WINDOWS (b01516e3d603bd3e641559a95b30cdf6)] -> xpath: //span[contains(text(),'Find a branch')]]
+2020-04-22 12:04:790 INFO  BranchFinderPage :28 - enter text for locationLE4 5ATto the field[[ChromeDriver: chrome on WINDOWS (b01516e3d603bd3e641559a95b30cdf6)] -> xpath: //input[@id='location']]
+2020-04-22 12:04:151 INFO  BranchFinderPage :33 - click on search btn[[ChromeDriver: chrome on WINDOWS (b01516e3d603bd3e641559a95b30cdf6)] -> xpath: //input[@class='btn btn-primary']]
+2020-04-22 12:04:534 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-22 12:04:679 INFO  HomePage :45 - click on find a branch link[[ChromeDriver: chrome on WINDOWS (9634411fc7a01f9848811f10fd68e6eb)] -> xpath: //span[contains(text(),'Find a branch')]]
+2020-04-22 12:04:852 INFO  BranchFinderPage :28 - enter text for locationLE4 5ATto the field[[ChromeDriver: chrome on WINDOWS (9634411fc7a01f9848811f10fd68e6eb)] -> xpath: //input[@id='location']]
+2020-04-22 12:04:120 INFO  BranchFinderPage :33 - click on search btn[[ChromeDriver: chrome on WINDOWS (9634411fc7a01f9848811f10fd68e6eb)] -> xpath: //input[@class='btn btn-primary']]
